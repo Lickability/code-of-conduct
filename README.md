@@ -22,8 +22,7 @@ Be respectful of other people; respectfully ask people to stop if you are bother
 
 ## Harassment:
 
-We recognize that the technology community is diverse and that people have different backgrounds, experiences, and understandings of what constitutes offensive or inappropriate behavior. We are committed to open and positive communication to promote an environment that ensures that all participants feel welcome and respected at our events.
-We are dedicated to a harassment-free experience for everyone who attends an iOS IRL gathering or other iOS IRL event. We do not tolerate harassment, which includes:
+We recognize that the technology community is diverse and that people have different backgrounds, experiences, and understandings of what constitutes offensive or inappropriate behavior. We are committed to open and positive communication to promote an environment that ensures that all participants feel welcome and respected. We do not tolerate harassment, which includes:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
