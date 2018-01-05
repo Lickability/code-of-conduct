@@ -1,8 +1,8 @@
 # Lickability Code of Conduct
 
-Welcome!
+Welcome! 👋
 
-First and foremost, the Lickability Slack is a workspace for Lickability, a small software studio in New York. We also invite non-employees to keep it a lively place with new faces and new ideas. We also occasionally hold events and parties for the company and friends / industry contacts.
+First and foremost, the Lickability Slack is a workspace for [Lickability](https://lickability.com), a small software studio in New York. We also invite non-employees to keep it a lively place with new faces and new ideas. We also occasionally hold events and parties for the company and friends / industry contacts.
 
 We want these spaces to be fun, pleasant, and harassment-free for everyone. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 All participants are required to comply with the following code of conduct. Administrators will enforce this code throughout the team and any events. 
@@ -39,9 +39,15 @@ We recognize that the technology community is diverse and that people have diffe
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They’ll respond as promptly as they can.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
+
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent. We will help participants as needed by contacting venue security or local law enforcement, providing escorts, or otherwise assisting those experiencing harassment to feel safe for the duration of a Lickability event.
+
+## Apologize for Mistakes
+
+Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future.
 
 ## Consequences
 
