@@ -20,12 +20,6 @@ Be respectful of other people; respectfully ask people to stop if you are bother
 
 # The Long Version
 
-## Confidentiality:
-
-**Please keep what’s said ar Lickability’s Slack and events confidential**. Don’t repeat or quote things said there without the affirmative consent of the speaker(s).
-
-**Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of these spaces, we cannot guarantee that they will do so. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
-
 ## Harassment:
 
 We recognize that the technology community is diverse and that people have different backgrounds, experiences, and understandings of what constitutes offensive or inappropriate behavior. We are committed to open and positive communication to promote an environment that ensures that all participants feel welcome and respected at our events.
@@ -56,10 +50,16 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including removal from this Slack and identifying the participant publicly as someone about whom we've received complaints.
 
+## Confidentiality:
+
+**Please keep what’s said in Lickability’s Slack and at events confidential**. Don’t repeat or quote things said there without the affirmative consent of the speaker(s).
+
+**Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of these spaces, we cannot guarantee that they will do so. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+
 ### Credits and License
 
 This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Updates
 
-We are happy to take any questions, comments, or suggestions regarding our code of conduct and policies. Please file issues and pull requests, or reach out at the emails above.
+We are happy to take any questions, comments, or suggestions regarding our Code of Conduct and policies. Please file issues and pull requests, or reach out at the emails above.
