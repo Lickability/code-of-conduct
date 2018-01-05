@@ -39,7 +39,7 @@ We recognize that the technology community is diverse and that people have diffe
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They’ll respond as promptly as they can.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent. We will help participants as needed by contacting venue security or local law enforcement, providing escorts, or otherwise assisting those experiencing harassment to feel safe for the duration of a Lickability event.
 
@@ -63,4 +63,4 @@ We are happy to take any questions, comments, or suggestions regarding our Code 
 
 ### Credits and License
 
-This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
+This code of conduct is based on Annalee Flower Horne’s [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism’s [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
