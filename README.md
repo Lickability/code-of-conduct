@@ -12,7 +12,7 @@ All participants are required to comply with the following code of conduct. Admi
 The current Lickability administators are:
 * [Matthew Bischoff](mailto:matt@lickability.com)
 * [Brian Capps](mailto:brian@lickability.com)
-* [Andrew Harrison](mailto:andrew@liclkability.com)
+* [Andrew Harrison](mailto:andrew@lickability.com)
 
 # The Short Version
 
