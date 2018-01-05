@@ -5,7 +5,7 @@ Welcome!
 First and foremost, the Lickability Slack is a workspace for Lickability, a small software studio in New York. We also invite non-employees to keep it a lively place with new faces and new ideas. We also occasionally hold events and parties for the company and friends / industry contacts.
 
 We want these spaces to be fun, pleasant, and harassment-free for everyone. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
-All participants are required to comply with the following code of conduct. Administrators (see below for definition of administrators) will enforce this code throughout the team and any events. 
+All participants are required to comply with the following code of conduct. Administrators will enforce this code throughout the team and any events. 
 
 ## Administrators
 
