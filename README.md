@@ -56,10 +56,12 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 **Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of these spaces, we cannot guarantee that they will do so. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-### Credits and License
-
-This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
-
 ## Updates
 
 We are happy to take any questions, comments, or suggestions regarding our Code of Conduct and policies. Please file issues and pull requests, or reach out at the emails above.
+
+---
+
+### Credits and License
+
+This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
