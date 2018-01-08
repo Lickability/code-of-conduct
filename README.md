@@ -16,7 +16,7 @@ The current Lickability administators are:
 
 # The Short Version
 
-Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue contact the administrators. If you are being a problem, it will be apparent and you may be asked to leave the team or event.
+Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue, contact the administrators. If you are being a problem, it will be apparent, and you may be asked to leave the team or event.
 
 # The Long Version
 
@@ -30,7 +30,7 @@ We recognize that the technology community is diverse and that people have diffe
 * Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate
 * Simulated physical contact (e.g. textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop
 * Threats of violence
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+* Incitement of violence toward any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation
 * Sustained disruption of discussion
 * Unwelcome sexual attention
@@ -39,9 +39,9 @@ We recognize that the technology community is diverse and that people have diffe
 
 ## Reporting
 
-If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful and welcome your input in doing so.
 
-If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter.
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or distressing in any way. We will listen and work to resolve the matter.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent. We will help participants as needed by contacting venue security or local law enforcement, providing escorts, or otherwise assisting those experiencing harassment to feel safe for the duration of a Lickability event.
 
