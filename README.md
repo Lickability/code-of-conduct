@@ -2,21 +2,20 @@
 
 Welcome! 👋
 
-First and foremost, the Lickability Slack is a workspace for [Lickability](https://lickability.com), a small software studio in New York. We also invite non-employees to keep it a lively place with new faces and new ideas. We also occasionally hold events and parties for the company and friends / industry contacts.
+[Lickability](https://lickability.com) is software studio in NYC that designs and develops amazing apps for creative companies. We occasionally hold events and parties, like Design Friends by Lickability, for the company and our friends / industry contacts / fellow creators.
 
 We want these spaces to be fun, pleasant, and harassment-free for everyone. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
-All participants are required to comply with the following code of conduct. Administrators will enforce this code throughout the team and any events. 
+All participants are required to comply with the following code of conduct. Administrators will enforce this code throughout any events. 
 
 ## Administrators
 
 The current Lickability administators are:
+* [Thomas DeVuono](mailto:tom@lickability.com)
 * [Matthew Bischoff](mailto:matt@lickability.com)
-* [Brian Capps](mailto:brian@lickability.com)
-* [Andrew Harrison](mailto:andrew@lickability.com)
 
 # The Short Version
 
-Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue, contact the administrators. If you are being a problem, it will be apparent, and you may be asked to leave the team or event.
+Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue, contact the administrators. If you are being a problem, it will be apparent, and you may be asked to leave the event.
 
 # The Long Version
 
@@ -28,14 +27,13 @@ We recognize that the technology community is diverse and that people have diffe
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
 * Deliberate misgendering or use of ‘dead’ or rejected names
 * Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate
-* Simulated physical contact (e.g. textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop
+* Physical contact without consent or after a request to stop
 * Threats of violence
 * Incitement of violence toward any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation
 * Sustained disruption of discussion
 * Unwelcome sexual attention
 * Continued one-on-one communication after requests to cease
-* Publication of non-harassing private communication
 
 ## Reporting
 
@@ -53,13 +51,7 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant violates this policy, the admins may take any action they deem appropriate, up to and including removal from this Slack and identifying the participant publicly as someone about whom we've received complaints.
-
-## Confidentiality:
-
-**Please keep what’s said in Lickability’s Slack and at events confidential**. Don’t repeat or quote things said there without the affirmative consent of the speaker(s).
-
-**Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of these spaces, we cannot guarantee that they will do so. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+If a participant violates this policy, the admins may take any action they deem appropriate, up to and including removal from all future events and identifying the participant publicly as someone about whom we've received complaints.
 
 ## Updates
 
