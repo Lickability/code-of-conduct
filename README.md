@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-[Lickability](https://lickability.com) is software studio in NYC that designs and develops amazing apps for creative companies. We occasionally hold events and parties, like Design Friends by Lickability, for the company and our friends / industry contacts / fellow creators.
+[Lickability](https://lickability.com) is a software studio in NYC that designs and develops amazing apps for creative companies. We occasionally hold events and parties, like Design Friends by Lickability, for the company and our friends / industry contacts / fellow creators.
 
 We want these spaces to be fun, pleasant, and harassment-free for everyone. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
 All participants are required to comply with the following code of conduct. Administrators will enforce this code throughout any events. 
